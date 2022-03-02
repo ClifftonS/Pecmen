@@ -1,0 +1,13 @@
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\bin\Debug\netcoreapp3.1\PecmenRev3.exe
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\bin\Debug\netcoreapp3.1\PecmenRev3.deps.json
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\bin\Debug\netcoreapp3.1\PecmenRev3.runtimeconfig.json
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\bin\Debug\netcoreapp3.1\PecmenRev3.runtimeconfig.dev.json
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\bin\Debug\netcoreapp3.1\PecmenRev3.dll
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\bin\Debug\netcoreapp3.1\PecmenRev3.pdb
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.AssemblyInfoInputs.cache
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.AssemblyInfo.cs
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.csproj.CoreCompileInputs.cache
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.dll
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.pdb
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.genruntimeconfig.cache
+C:\Users\cliff\source\repos\PecmenRev3\PecmenRev3\obj\Debug\netcoreapp3.1\PecmenRev3.csproj.AssemblyReference.cache
